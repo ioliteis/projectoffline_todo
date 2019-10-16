@@ -1,6 +1,6 @@
 # Project Offline ToDo
 ## Introduction
-A simple ToDo list.
+A simple ToDo list which has no Internet permission.
 ## Screenshots
 <img src="https://pixelfed.social/storage/m/9415380b19c20b948c98d7c5f1fb65710b040a9e/d39aa78c66ea34daea763c3f0f7d2bf0905d76ff/ZYNqOvowb76PKOdks1FAcMSGeiVATdLOcnaTAZaX.png" width="240px"></img>
 <img src="https://pixelfed.social/storage/m/9415380b19c20b948c98d7c5f1fb65710b040a9e/d39aa78c66ea34daea763c3f0f7d2bf0905d76ff/XK8ftSti7SaHlu3UYOynuV5tMJyxmEU04oClCf1V.png" width="240px"></img>
