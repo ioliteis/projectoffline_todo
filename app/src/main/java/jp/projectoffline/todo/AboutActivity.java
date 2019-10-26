@@ -3,7 +3,6 @@ package jp.projectoffline.todo;
 import android.content.ClipData;
 import android.content.ClipboardManager;
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
@@ -12,6 +11,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
+import androidx.preference.PreferenceManager;
 
 public class AboutActivity extends AppCompatActivity {
 
@@ -21,10 +21,8 @@ public class AboutActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //設定の読み込み
-        SharedPreferences data = getSharedPreferences("preference", MODE_PRIVATE);
         //ダークテーマ
-        if (data.getBoolean("setting1", true)) {
+        if (PreferenceManager.getDefaultSharedPreferences(this).getBoolean("dark_theme", true)){
             setTheme(R.style.AppTheme_Dark);
         }
         setContentView(R.layout.activity_about);

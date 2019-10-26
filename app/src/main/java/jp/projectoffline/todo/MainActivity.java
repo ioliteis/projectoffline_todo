@@ -5,7 +5,6 @@ import android.app.Dialog;
 import android.content.ContentValues;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
@@ -24,6 +23,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.fragment.app.DialogFragment;
 import androidx.fragment.app.FragmentManager;
+import androidx.preference.PreferenceManager;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
@@ -43,10 +43,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //設定の読み込み
-        SharedPreferences data = getSharedPreferences("preference", MODE_PRIVATE);
         //ダークテーマ
-        if (data.getBoolean("setting1", true)) {
+        if (PreferenceManager.getDefaultSharedPreferences(this).getBoolean("dark_theme", true)){
             setTheme(R.style.AppTheme_Dark);
         }
         setContentView(R.layout.activity_main);

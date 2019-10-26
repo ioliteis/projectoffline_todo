@@ -21,5 +21,10 @@
 
     </com.google.android.material.appbar.AppBarLayout>
 
-    <include layout="@layout/content_settings" />
+    <fragment
+        android:id="@+id/settings_container"
+        android:name="jp.projectoffline.todo.SettingsFragment"
+        android:layout_width="match_parent"
+        android:layout_height="674dp"/>
+
 </LinearLayout>
