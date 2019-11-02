@@ -1,5 +1,5 @@
 # Project Offline ToDo
-<img src="https://raw.githubusercontent.com/ioliteis/projectoffline_todo/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"></img>
+<img src="https://raw.githubusercontent.com/ioliteis/projectoffline_todo/master/app/src/main/ic_launcher-web.png" width="200px"></img>
 ## Introduction
 A simple ToDo list which has no Internet permission.
 ## Screenshots
