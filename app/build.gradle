@@ -6,8 +6,8 @@ android {
         applicationId "jp.projectoffline.todo"
         minSdkVersion 22
         targetSdkVersion 29
-        versionCode 201
-        versionName "0.2.1"
+        versionCode 301
+        versionName "0.3.1"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
@@ -27,4 +27,12 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test:runner:1.2.0'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+    implementation 'com.github.daniel-stoneuk:material-about-library:2.4.2'
+    implementation 'com.mikepenz:iconics-core:3.1.0'
+    implementation 'com.mikepenz:community-material-typeface:3.5.95.1@aar'
+}
+allprojects {
+    repositories {
+        maven { url 'https://jitpack.io' }
+    }
 }

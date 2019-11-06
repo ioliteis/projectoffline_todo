@@ -2,19 +2,28 @@
     <string name="app_name">To Do</string>
     <string name="action_settings">設定</string>
     <string name="action_about">このアプリについて</string>
-    <string name="version">Version 0.2.1</string>
-    <string name="dark_theme">ダークテーマ</string>
-    <string name="summary">アプリの再起動が必要です。</string>
+
     <string name="about_source">ソースコード</string>
-    <string name="about_version">バージョン 0.2.1</string>
+    <string name="about_version">バージョン</string>
     <string name="about_po">Project Offlineについて</string>
     <string name="about_about">Project Offline To Do</string>
-    <string name="about_icon">Icon</string>
     <string name="about_privacy">プライバシーポリシー</string>
     <string name="about_copy">コピーしました。</string>
+    <string name="about_licenses">オープンソースライセンス</string>
+    <string name="about_mastodon">マストドン アカウント</string>
+    <string name="about_website">Project Offline のウェブサイト</string>
+    <string name="about_privacy_comment">プライバシーポリシーをお読みください。</string>
+    <string name="about_contact">活動状況はこちら。</string>
+
     <string name="dialog_positive1">追加</string>
     <string name="dialog_neutral">キャンセル</string>
     <string name="dialog_positive2">削除</string>
+
+    <string name="version">0.3.1</string>
     <string name="input">ToDoを追加</string>
     <string name="confirm">削除しますか?</string>
+
+    <string name="preference_theme">テーマ</string>
+    <string name="preference_theme_content">ダークテーマ</string>
+    <string name="preference_theme_summary">アプリの再起動が必要です。</string>
 </resources>
