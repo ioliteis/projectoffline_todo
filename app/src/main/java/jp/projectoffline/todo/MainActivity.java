@@ -225,7 +225,7 @@ public class MainActivity extends AppCompatActivity {
             alert.setNeutralButton(R.string.dialog_neutral, new DialogInterface.OnClickListener() {
                 @Override
                 public void onClick(DialogInterface dialogInterface, int i) {
-
+                    //Cancel
                 }
             });
             //ダイアログを表示
