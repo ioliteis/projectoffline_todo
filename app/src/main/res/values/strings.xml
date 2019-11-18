@@ -19,7 +19,7 @@
     <string name="dialog_neutral">Cancel</string>
     <string name="dialog_positive2">delete</string>
 
-    <string name="version">0.3.1</string>
+    <string name="version">0.3.2</string>
     <string name="input">Add To Do</string>
     <string name="confirm">Do you want to delete it?</string>
 
