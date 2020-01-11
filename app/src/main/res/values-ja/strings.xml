@@ -19,7 +19,7 @@
     <string name="dialog_neutral">キャンセル</string>
     <string name="dialog_positive2">削除</string>
 
-    <string name="version">0.3.2</string>
+    <string name="version">0.4</string>
     <string name="input">ToDoを追加</string>
     <string name="confirm">削除しますか?</string>
 

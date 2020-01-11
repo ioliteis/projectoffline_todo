@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".LicensesActivity"
-            android:theme="@style/AppTheme.MaterialAboutActivity"></activity>
+            android:theme="@style/AppTheme.MaterialAboutActivity" />
         <activity
             android:name=".SettingsActivity"
             android:label="@string/action_settings"
