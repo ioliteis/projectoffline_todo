@@ -10,8 +10,9 @@ A simple ToDo list.
 - Free
 ## Screenshots
 <img src="https://pixelfed.social/storage/m/ebbba457f15a41f29e66bf69f0a5a4d0c974249a/d39aa78c66ea34daea763c3f0f7d2bf0905d76ff/RGwREE41UpahXqlR6FTiqdSF5nmyFzjU9ThWpsuc.png" width="240px"></img>
-<img src="https://pixelfed.social/storage/m/ebbba457f15a41f29e66bf69f0a5a4d0c974249a/d39aa78c66ea34daea763c3f0f7d2bf0905d76ff/G4GBfZzm6tvF5ikxxAPZsCk5UXGM9Il7EZPJjOcq.png" width="240px"></img>
-<img src="https://pixelfed.social/storage/m/ebbba457f15a41f29e66bf69f0a5a4d0c974249a/d39aa78c66ea34daea763c3f0f7d2bf0905d76ff/tia3Jb2yGPCn1WHflDM7KVs5ogRONLkFS7At14Mo.png" width="240px"></img>
+<img src="https://pixelfed.social/storage/m/3a6438b47665c0545d7d1dd23248088a371859e6/d39aa78c66ea34daea763c3f0f7d2bf0905d76ff/rI7XyUws2AogMMTBRIlApTkdetqT3vIAkLcPSJrc.png" width="240px"></img>
+<img src="https://pixelfed.social/storage/m/3a6438b47665c0545d7d1dd23248088a371859e6/d39aa78c66ea34daea763c3f0f7d2bf0905d76ff/AYXYRt0NOwSqkA3KzboDbDBAJ0NSjt91N4dbRWhN.png" width="240px"></img>
+<img src="https://pixelfed.social/storage/m/3a6438b47665c0545d7d1dd23248088a371859e6/d39aa78c66ea34daea763c3f0f7d2bf0905d76ff/TU4ilTM5khdwbbTcWbhlfAJQKSBdKKbt41FBMstC.png" width="240px"></img>
 ## Privacy Policy
 Privacy policy of Project Offline is [here](https://ioliteis.github.io/projectoffline/2019/08/26/Privacy-Policy/).
 ## Acknowledgments
