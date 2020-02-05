@@ -28,6 +28,5 @@ public class SettingsActivity extends AppCompatActivity {
     public boolean onSupportNavigateUp() {
         finish();
         return super.onSupportNavigateUp();
-
     }
 }
