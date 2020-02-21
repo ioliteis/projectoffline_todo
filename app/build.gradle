@@ -4,10 +4,10 @@ android {
     compileSdkVersion 29
     defaultConfig {
         applicationId "jp.projectoffline.todo"
-        minSdkVersion 22
+        minSdkVersion 23
         targetSdkVersion 29
-        versionCode 401
-        versionName "0.4.1"
+        versionCode 402
+        versionName "0.4.2"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
